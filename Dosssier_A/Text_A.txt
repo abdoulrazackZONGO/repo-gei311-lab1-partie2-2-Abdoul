@@ -1,4 +1,2 @@
 labo 1, gestion de 
 version, Abdoul
-
-erreur injectée
